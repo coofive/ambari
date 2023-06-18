@@ -77,6 +77,11 @@
       <url>https://repo.hortonworks.com/content/groups/public/</url>
     </repository>
     <repository>
+      <id>apache-hadoop2</id>
+      <name>hdp2</name>
+      <url>https://repo.hortonworks.com/content/repositories/releases/</url>
+    </repository>
+    <repository>
       <id>oss.sonatype.org</id>
       <name>OSS Sonatype Staging</name>
       <url>https://oss.sonatype.org/content/groups/staging</url>
