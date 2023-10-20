@@ -167,7 +167,7 @@
                             <executable>${basedir}/node/${node.executable}</executable>
                             <arguments>
                                 <argument>node_modules/brunch/bin/brunch</argument>
-                                <argument>build -c ${basedir}/brunch-config.js</argument>
+                                <argument>build</argument>
                             </arguments>
                         </configuration>
                     </execution>
